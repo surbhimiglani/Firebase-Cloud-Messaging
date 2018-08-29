@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "5559592591",
+    "firebase_url": "https://fcm-project-bbe66.firebaseio.com",
+    "project_id": "fcm-project-bbe66",
+    "storage_bucket": "fcm-project-bbe66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5559592591:android:fd1c98db499732d7",
+        "android_client_info": {
+          "package_name": "com.example.surbhimiglani.googlecloudmessagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5559592591-tnmiujnpqcl589kpif881mk1g9evkn51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.surbhimiglani.googlecloudmessagingapp",
+            "certificate_hash": "b2f41cee5f9e0f9fe9c2353d6b905f67ddcea0de"
+          }
+        },
+        {
+          "client_id": "5559592591-5q9a1a4blj5glr8uu5s6s74uqjdgmfie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQYB4nkBkxTGzdnQ6I0LaIp9Lr-KXwDPA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5559592591-5q9a1a4blj5glr8uu5s6s74uqjdgmfie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

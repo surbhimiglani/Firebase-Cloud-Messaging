@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleCloudMessagingApp</string>
+    <string name="FCM_PREF">com.example.surbhimiglani.googlecloudmessagingapp.fcm_pref</string>
+    <string name="FCM_TOKEN">com.example.surbhimiglani.googlecloudmessagingapp.fcm_token</string>
+</resources>
